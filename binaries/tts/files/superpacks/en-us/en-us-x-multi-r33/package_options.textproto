@@ -1,0 +1,38 @@
+synth_runtime_directory: "/export/hda3/borglet/remote_package_fs_dirs/0.en_us_x_embedded_valerian_vocoded.20210512-032126.voice_build.speech-tts-builder.1593385292624.fs_dir_group.7042467426564126853/mount_point"
+output_dir: "/cns/cf-d/home/speech-tts-builder/voice_package_scratch/speech-tts-builder/ttl=30d/VOICE_en_us_x_embedded_valerian_vocoded_20210512_102515/final"
+voice_name: "en_us_x_embedded_valerian_vocoded"
+mds_register_request {
+  label: "VOICE_en_us_x_embedded_valerian_vocoded_20210512_102515"
+  model_type: TTS_VOICE
+  language_variant {
+    language: "en_us"
+    variant: "en_us_x_embedded_valerian_vocoded"
+  }
+  changelist: 373300381
+  check_dev_path_exists: true
+  tts_voice_build_info {
+    mds_label: "VOICE_en_us_x_embedded_valerian_vocoded_20210512_102515"
+    tts_voice_build_log_dir: "/namespace/speech-tts-builder/voice-building/tts_voice_build_logs/ttl=90d/speech-tts-builder/en/us/en_us_x_embedded_valerian_vocoded/20210512_102515"
+  }
+}
+scratch_dir: "/cns/cf-d/home/speech-tts-builder/voice_package_scratch/speech-tts-builder/ttl=30d/VOICE_en_us_x_embedded_valerian_vocoded_20210512_102515"
+lstm_options {
+  pie_conversion_options {
+    is_binary_proto: true
+    quantization_type: NONE
+    percentile_in_range: 100
+    layout: ROW_MAJOR
+  }
+}
+synth_runtime_package_name: "speech/tts/synth_runtime/en_us_x_embedded_valerian_vocoded"
+synth_runtime_version: "sharkfin-20210512_102515"
+artifacts {
+  artifact_type: CHIVE_MODEL
+  locale: "en_us"
+  variant: "en_us_x_burdock_valerian"
+  label_override: "CHIVE_MODEL_fused_burdock_valerian_en_us_row29_newlstm"
+  chive_model_info {
+    chive_model_type: BURDOCK_VALERIAN
+  }
+}
+backend_type: "embedded_valerian_vocoded"

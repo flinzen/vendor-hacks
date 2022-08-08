@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="ClickDurationFeature__enabled" value="true" />
+    <boolean name="SystemTrayFeature__enable_html_tags" value="true" />
+    <boolean name="RichNotificationFeature__enable_snooze_action" value="false" />
+    <boolean name="UserFeedbackFeature__enable_insat_surveys" value="false" />
+    <boolean name="RichNotificationFeature__enable_reply" value="true" />
+    <boolean name="UserFeedbackFeature__enable_ihnr_surveys_v2" value="false" />
+    <boolean name="DeviceStateFeature__read_network_transport" value="true" />
+    <boolean name="LoggingFeature__log_removed_event" value="true" />
+    <float name="LoggingFeature__log_device_state_battery_level_precision" value="0.1" />
+    <float name="RichNotificationFeature__default_aspect_ratio" value="1.777" />
+    <boolean name="LoggingFeature__log_device_state_notifications_in_tray" value="false" />
+    <boolean name="DeviceStateFeature__read_notifications_in_tray" value="true" />
+    <boolean name="RichNotificationFeature__enable_enlarged_image_for_collaborator" value="true" />
+    <string name="SystemTrayFeature__force_action_to_open_as_activity"></string>
+    <boolean name="PeriodicWipeoutFeature__enabled" value="true" />
+    <boolean name="ChimeBroadcastReceiverFeature__enable_broadcast_receiver_timeout" value="true" />
+    <long name="__phenotype_configuration_version" value="1657270500" />
+    <long name="ChimeBroadcastReceiverFeature__process_start_threshold_ms" value="5000" />
+    <boolean name="SystemTrayFeature__schedule_refresh_notifications_task" value="true" />
+    <long name="RegistrationStalenessFeature__seconds_after_to_treat_registrations_as_stale" value="12940" />
+    <boolean name="LoggingFeature__log_device_state_power_saving" value="false" />
+    <boolean name="DeviceStateFeature__read_network_metered" value="true" />
+    <boolean name="UserFeedbackFeature__enable_ihnr_with_action_buttons" value="false" />
+    <boolean name="LoggingFeature__log_system_event_scheduled_job" value="false" />
+    <boolean name="RegistrationFeature__disable_registration_on_login_accounts_changed" value="true" />
+    <boolean name="LoggingFeature__log_device_state_battery_level" value="false" />
+    <boolean name="SystemTrayFeature__forced_notifications_storage_update" value="true" />
+    <boolean name="DeviceStateFeature__read_user_in_call" value="true" />
+    <boolean name="UserFeedbackFeature__enable_ihnr_with_action_buttons_capability" value="false" />
+    <string name="__phenotype_server_token">CAESOQDyi0h8K-vidz9GlIV2bPCOBwvTbWSUkQZxLWzSNGntsM9t-azircOVM0aMG-ZRg2vssowbIO2PjQ==</string>
+    <string name="__phenotype_snapshot_token"> com.google.android.libraries.notifications#com.google.android.googlequicksearchbox 301157197 2 -429144348 com.google.android.libraries.notifications#com.google.android.googlequicksearchbox -429144348 0</string>
+    <boolean name="DeviceStateFeature__read_battery_level" value="true" />
+    <long name="PeriodicWipeoutFeature__max_threads_in_storage" value="0" />
+    <boolean name="SystemTrayFeature__drop_after_max_notification_count_reached" value="true" />
+    <boolean name="LoggingFeature__log_system_event_login_accounts_changed" value="true" />
+    <boolean name="RichNotificationFeature__enable_turn_off_action" value="false" />
+    <boolean name="LoggingFeature__log_device_ui_mode" value="true" />
+    <boolean name="LoggingFeature__log_device_state_network_metered" value="false" />
+    <boolean name="ChimeBroadcastReceiverFeature__enable_check_process_start_for_timeout" value="true" />
+    <long name="InboxFeature__notification_limit" value="50" />
+    <boolean name="NetworkFeature__use_gnp_http_client_v2" value="true" />
+    <float name="RichNotificationFeature__max_aspect_ratio" value="2.5" />
+    <boolean name="LoggingFeature__log_device_state_interruption_filter" value="true" />
+    <boolean name="QualityOptimizationFeature__enabled" value="false" />
+    <boolean name="LoggingFeature__log_device_state_battery_charging" value="false" />
+    <boolean name="DeviceStateFeature__read_app_in_foreground" value="true" />
+    <boolean name="LoggingFeature__log_device_state_network_roaming" value="false" />
+    <boolean name="UserFeedbackFeature__enable_temporary_message_views" value="false" />
+    <string name="SyncFeature__disable_fetch_threads_by_id_by_reason"></string>
+    <float name="RichNotificationFeature__min_aspect_ratio" value="0.75" />
+    <boolean name="LoggingFeature__log_system_event_phenotype_changed" value="false" />
+    <boolean name="LoggingFeature__log_system_event_timezone_changed" value="false" />
+    <boolean name="DeviceStateFeature__read_battery_charging" value="true" />
+    <boolean name="SystemTrayFeature__use_activity_for_url_clicks" value="true" />
+    <boolean name="LoggingFeature__log_system_event_locale_changed" value="false" />
+    <long name="QualityOptimizationFeature__evaluation_interval_ms" value="3600000" />
+    <boolean name="DeviceStateFeature__read_interruption_filter" value="true" />
+    <string name="RegistrationFeature__disable_registration_by_reason">CAM</string>
+    <boolean name="DeviceStateFeature__read_user_interactive" value="true" />
+    <string name="SyncFeature__disable_fetch_latest_threads_by_reason"></string>
+    <long name="PeriodicWipeoutFeature__notifications_storage_duration" value="2419200000" />
+    <string name="SyncFeature__disable_fetch_updated_threads_by_reason"></string>
+    <boolean name="LoggingFeature__log_device_state_network_transport" value="false" />
+    <boolean name="LoggingFeature__log_system_event_app_updated" value="false" />
+    <boolean name="DummyFeature__dummy_flag" value="false" />
+    <long name="DeviceStateFeature__cache_ttl_ms" value="600000" />
+    <boolean name="DeviceStateFeature__read_network_roaming" value="true" />
+    <boolean name="DeviceStateFeature__read_power_saving" value="true" />
+    <boolean name="LoggingFeature__log_system_event_boot_completed" value="false" />
+    <boolean name="NetworkFeature__use_gnp_http_client" value="false" />
+    <string name="RichNotificationFeature__enlarged_image_layout">CAA</string>
+</map>

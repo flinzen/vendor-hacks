@@ -1,0 +1,29 @@
+# stress sign
+"	1
+%	2
+-	0
+
+# vowels
+*	@
+1	y
+
+# consonants
+p_j	pj
+t_j	tj
+k_j	kj
+b_j	bj
+d_j	dj
+g_j	gj
+S	sh
+Z	zh
+S_j	si
+f_j	fj
+v_j	vj
+s_j	sj
+z_j	zj
+x_j	xj
+l_j	lj
+r_j	rj
+m_j	mj
+n_j	nj
+ts_j	tsj

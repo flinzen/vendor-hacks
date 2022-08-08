@@ -1,0 +1,22 @@
+{
+  "packs": [
+    {
+      "namespace": "ru-ru",
+      "name": "ru-ru-x-multi-r24",
+      "compressed_size": 19150090,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ru-ru/ru-ru-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/ru-ru/ru-ru-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "cf1714760f855e0f69575f8eb70376037655429595a621a9da8ec97343c412db"
+    }
+  ]
+}

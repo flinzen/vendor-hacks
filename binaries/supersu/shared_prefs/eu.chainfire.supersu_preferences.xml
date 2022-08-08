@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="silently_denied_requests" />
+    <boolean name="tapjack" value="true" />
+    <string name="config_default_access">grant</string>
+    <boolean name="superuser" value="true" />
+    <boolean name="config_default_enablemountnamespaceseparation" value="true" />
+    <boolean name="config_default_notify" value="true" />
+    <int name="shown_follow" value="1" />
+    <boolean name="freeload" value="false" />
+    <string name="config_default_log">access</string>
+    <int name="last_boot_version" value="277" />
+    <boolean name="config_default_enablemultiuser" value="false" />
+    <boolean name="refresh" value="true" />
+    <string name="locale"></string>
+    <boolean name="config_default_enableduringboot" value="false" />
+    <string name="config_default_logformat">31122359</string>
+    <string name="theme">material_light_darkbar</string>
+    <boolean name="reauthenticate" value="true" />
+    <boolean name="config_default_trustsystem" value="false" />
+    <string name="config_default_logage">3</string>
+    <string name="config_default_wait">10</string>
+</map>

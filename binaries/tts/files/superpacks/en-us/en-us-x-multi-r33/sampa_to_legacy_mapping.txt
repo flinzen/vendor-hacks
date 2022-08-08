@@ -1,0 +1,33 @@
+# consonants
+N	ng
+T	th
+D	dh
+S	sh
+Z	zh
+r\	r
+tS	ch
+dZ	jh
+j	y
+
+# vowels/diphthongs
+I	i
+i:	ii
+E	e
+{	a
+A:	aa
+O:	oo
+V	uh
+U	u
+u:	uu
+@	ax
+@`	er
+eI	ei
+aI	ai
+aU	au
+OI	oi
+oU	ou
+
+# stress sign
+"	1
+%	2
+-	0

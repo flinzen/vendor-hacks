@@ -1,0 +1,40 @@
+{
+  "packs": [
+    {
+      "namespace": "ru-ru",
+      "name": "ru-ru-x-multi-r32",
+      "compressed_size": 20673024,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ru-ru/ru-ru-x-multi-r32.zvoice",
+        "https://dl.google.com/android/tts/v26/ru-ru/ru-ru-x-multi-r32.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "32",
+      "sha256_checksum": "389d1b4712651bde97d579c7c4e33fa18853055f47bdaa53e04eecbad98e1a1f"
+    },
+    {
+      "namespace": "ru-ru",
+      "name": "ru-ru-x-multi-seanet-r32",
+      "compressed_size": 23966887,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ru-ru/ru-ru-x-multi-seanet-r32.zvoice",
+        "https://dl.google.com/android/tts/v26/ru-ru/ru-ru-x-multi-seanet-r32.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "32",
+      "sha256_checksum": "4e84613d46071d7305ff6775b73c1656ec165fdef06d949824bb62d216a364c8"
+    }
+  ]
+}

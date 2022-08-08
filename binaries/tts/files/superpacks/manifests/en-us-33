@@ -1,0 +1,94 @@
+{
+  "packs": [
+    {
+      "namespace": "en-us",
+      "name": "en-us-x-multi-r33",
+      "compressed_size": 11557357,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-us/en-us-x-multi-r33.zvoice",
+        "https://dl.google.com/android/tts/v26/en-us/en-us-x-multi-r33.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "33",
+      "sha256_checksum": "6680e6d9c5d85cdd11b38537bd29d1acc9fac6f6bb3c10a79efd4de006c0d8db"
+    },
+    {
+      "namespace": "en-us",
+      "name": "en-us-x-afh-r33",
+      "compressed_size": 8928053,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-us/en-us-x-afh-r33.zvoice",
+        "https://dl.google.com/android/tts/v26/en-us/en-us-x-afh-r33.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "33",
+      "sha256_checksum": "e8bcd602b725ac41fbf0c279aa15e0ad0b3b0b9ed2a70978855830d5fa8c6606"
+    },
+    {
+      "namespace": "en-us",
+      "name": "en-us-x-fis-r33",
+      "compressed_size": 9437528,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-us/en-us-x-fis-r33.zvoice",
+        "https://dl.google.com/android/tts/v26/en-us/en-us-x-fis-r33.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "33",
+      "sha256_checksum": "8d0a34e8488b918839de233001b4306f9521f163935c5e3c13c7c8f5552c164b"
+    },
+    {
+      "namespace": "en-us",
+      "name": "en-us-x-multi-wavernn-r33",
+      "compressed_size": 5239517,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-us/en-us-x-multi-wavernn-r33.zvoice",
+        "https://dl.google.com/android/tts/v26/en-us/en-us-x-multi-wavernn-r33.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "33",
+      "sha256_checksum": "cd438b560fda1a7c5ca356435d5ebe0055ec89d5a6a3d954ed87ecd31dc5d83d"
+    },
+    {
+      "namespace": "en-us",
+      "name": "en-us-x-multi-darwinn-wavernn-r33",
+      "compressed_size": 4249563,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-us/en-us-x-multi-darwinn-wavernn-r33.zvoice",
+        "https://dl.google.com/android/tts/v26/en-us/en-us-x-multi-darwinn-wavernn-r33.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "33",
+      "sha256_checksum": "2146bf73606b4b625443ad89a3ac2ee2629c548bcd30e1322a29ffd144677351"
+    }
+  ]
+}

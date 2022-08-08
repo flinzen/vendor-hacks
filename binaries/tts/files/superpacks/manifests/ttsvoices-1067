@@ -1,0 +1,1408 @@
+{
+  "packs": [
+    {
+      "namespace": "ttsvoices",
+      "name": "et-ee-x-tms-r24",
+      "compressed_size": 1517307,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/et-ee/et-ee-x-tms-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/et-ee/et-ee-x-tms-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "80453dd2b720966ca511526eba8491e3e751b0a36d9734e8484817a5d95e50a8"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-us-x-afh-r33",
+      "compressed_size": 8928053,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-us/en-us-x-afh-r33.zvoice",
+        "https://dl.google.com/android/tts/v26/en-us/en-us-x-afh-r33.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "33",
+      "sha256_checksum": "e8bcd602b725ac41fbf0c279aa15e0ad0b3b0b9ed2a70978855830d5fa8c6606"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-us-x-fis-r33",
+      "compressed_size": 9437528,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-us/en-us-x-fis-r33.zvoice",
+        "https://dl.google.com/android/tts/v26/en-us/en-us-x-fis-r33.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "33",
+      "sha256_checksum": "8d0a34e8488b918839de233001b4306f9521f163935c5e3c13c7c8f5552c164b"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-us-x-multi-r33",
+      "compressed_size": 11557357,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-us/en-us-x-multi-r33.zvoice",
+        "https://dl.google.com/android/tts/v26/en-us/en-us-x-multi-r33.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "33",
+      "sha256_checksum": "6680e6d9c5d85cdd11b38537bd29d1acc9fac6f6bb3c10a79efd4de006c0d8db"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-gb-x-multi-r32",
+      "compressed_size": 9438609,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-gb/en-gb-x-multi-r32.zvoice",
+        "https://dl.google.com/android/tts/v26/en-gb/en-gb-x-multi-r32.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "32",
+      "sha256_checksum": "65ea7896e92523c7bfa766f799c56081b28a6939241d8eb1350524025ad44226"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "pt-br-x-multi-r28",
+      "compressed_size": 5179451,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/pt-br/pt-br-x-multi-r28.zvoice",
+        "https://dl.google.com/android/tts/v26/pt-br/pt-br-x-multi-r28.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "28",
+      "sha256_checksum": "65565112d3c574d76a2309fca8fe360a79b7ca0498ea1b376136389f35077993"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "es-us-x-multi-r28",
+      "compressed_size": 6614233,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/es-us/es-us-x-multi-r28.zvoice",
+        "https://dl.google.com/android/tts/v26/es-us/es-us-x-multi-r28.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "28",
+      "sha256_checksum": "d87aea1c96bd2df211683fe703fa78453e654b07946faef89164cded0cff7778"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-in-x-multi-r29",
+      "compressed_size": 11979149,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-in/en-in-x-multi-r29.zvoice",
+        "https://dl.google.com/android/tts/v26/en-in/en-in-x-multi-r29.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "29",
+      "sha256_checksum": "f3fe9dccd373719518f1550a8299b8d3c9bd5d62ae4c05d409dac50eaaa8e751"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "hi-in-x-multi-r26",
+      "compressed_size": 13767412,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/hi-in/hi-in-x-multi-r26.zvoice",
+        "https://dl.google.com/android/tts/v26/hi-in/hi-in-x-multi-r26.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "26",
+      "sha256_checksum": "b82d30801173684949eb9170e2dc5241f4475640165fdcf2ba5be1c21d303756"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-au-x-multi-r30",
+      "compressed_size": 8928872,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-au/en-au-x-multi-r30.zvoice",
+        "https://dl.google.com/android/tts/v26/en-au/en-au-x-multi-r30.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "30",
+      "sha256_checksum": "0e173042060a6a1d9fb0638f2ada9bd4f63b2458351e4bc22a6c5707baa0832b"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "fr-fr-x-multi-r27",
+      "compressed_size": 16196819,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/fr-fr/fr-fr-x-multi-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/fr-fr/fr-fr-x-multi-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "eac1d894ac888a3c055f28dfcbc145a5fe403e24d04456c401a7f4acb546edc8"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ml-in-x-multi-r22",
+      "compressed_size": 6791416,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ml-in/ml-in-x-multi-r22.zvoice",
+        "https://dl.google.com/android/tts/v26/ml-in/ml-in-x-multi-r22.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "22",
+      "sha256_checksum": "bb53fcfdfdb3259e8a0697d6fc66f7a1185c7c668ab575387f96bae89b74975f"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ta-in-x-multi-r22",
+      "compressed_size": 5876432,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ta-in/ta-in-x-multi-r22.zvoice",
+        "https://dl.google.com/android/tts/v26/ta-in/ta-in-x-multi-r22.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "22",
+      "sha256_checksum": "a6390679746abf751c29669aa3933e87e3e3dca5bc8133d1d02d7a0773ab78d3"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "te-in-x-multi-r22",
+      "compressed_size": 7232099,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/te-in/te-in-x-multi-r22.zvoice",
+        "https://dl.google.com/android/tts/v26/te-in/te-in-x-multi-r22.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "22",
+      "sha256_checksum": "7b7e45459959b5bdfce51420c1e2e539bbc4b592a2f3b1d1ad10f602c661ed99"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "kn-in-x-multi-r20",
+      "compressed_size": 8341646,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/kn-in/kn-in-x-multi-r20.zvoice",
+        "https://dl.google.com/android/tts/v26/kn-in/kn-in-x-multi-r20.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "20",
+      "sha256_checksum": "a1c6ca1750aa4a7d42bebcf4649cf882333f1ff0c2a5d0cdc969879812768437"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "gu-in-x-multi-r20",
+      "compressed_size": 6411112,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/gu-in/gu-in-x-multi-r20.zvoice",
+        "https://dl.google.com/android/tts/v26/gu-in/gu-in-x-multi-r20.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "20",
+      "sha256_checksum": "edc4146d22d3f80a1e1a6cf4aa234f738657f9bafe00e57b73fea5c9c127a7c8"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "de-de-x-multi-r27",
+      "compressed_size": 12695578,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/de-de/de-de-x-multi-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/de-de/de-de-x-multi-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "4a7cdf91b09ae2dc63e90ae124d5405b4e9af5399dda139f71dee8803398f012"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "es-es-x-multi-r27",
+      "compressed_size": 6412432,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/es-es/es-es-x-multi-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/es-es/es-es-x-multi-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "fd0cf524cf3dd77413c97a09504667b7766035fd27e1d0daa996d8239bd057f3"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "fr-ca-x-multi-r25",
+      "compressed_size": 10714615,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/fr-ca/fr-ca-x-multi-r25.zvoice",
+        "https://dl.google.com/android/tts/v26/fr-ca/fr-ca-x-multi-r25.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "25",
+      "sha256_checksum": "f3071cda09ce5866ce23c2bd048bdeaa76574b4bf077adde08bb4bfeb5565263"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ko-kr-x-multi-r24",
+      "compressed_size": 7306416,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ko-kr/ko-kr-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/ko-kr/ko-kr-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "614b379517a72be3f7917df12a20582caa0e19f870573b3bf07827236072a7d0"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "nl-nl-x-multi-r24",
+      "compressed_size": 7488386,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/nl-nl/nl-nl-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/nl-nl/nl-nl-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "215f8cfd9b1dc67d5fa2eb9df03c1bbef75d78d3092ad26233abc51464361055"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "pl-pl-x-multi-r24",
+      "compressed_size": 9465140,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/pl-pl/pl-pl-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/pl-pl/pl-pl-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "e2965b338ca96707e827474a7630c67f6fe0181ba30ae7dd9bd2e9a209b7333f"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ru-ru-x-multi-r24",
+      "compressed_size": 19150090,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ru-ru/ru-ru-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/ru-ru/ru-ru-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "cf1714760f855e0f69575f8eb70376037655429595a621a9da8ec97343c412db"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "id-id-x-multi-r26",
+      "compressed_size": 3714662,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/id-id/id-id-x-multi-r26.zvoice",
+        "https://dl.google.com/android/tts/v26/id-id/id-id-x-multi-r26.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "26",
+      "sha256_checksum": "1a9e21f97ca53eacf4b55970bea60e8cd541f578bb43f0e4969f880eb96c13ce"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "tr-tr-x-multi-r24",
+      "compressed_size": 3757977,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/tr-tr/tr-tr-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/tr-tr/tr-tr-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "dcfaa9a561c78dc594cba256c8aa9c53407070191861caf37fe06d07c511521f"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "yue-hk-x-multi-r25",
+      "compressed_size": 9496070,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/yue-hk/yue-hk-x-multi-r25.zvoice",
+        "https://dl.google.com/android/tts/v26/yue-hk/yue-hk-x-multi-r25.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "25",
+      "sha256_checksum": "4061b04d11102526511997db5b45e5f09648c54c3f6c7be7bcfb67e440cc24e7"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "nb-no-x-multi-r24",
+      "compressed_size": 3871047,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/nb-no/nb-no-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/nb-no/nb-no-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "bc9f4fa1b7ef14475d7747039f76e1070aca4dc0872d458a132d6cca306077b0"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "cmn-tw-x-multi-r24",
+      "compressed_size": 11319058,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/cmn-tw/cmn-tw-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/cmn-tw/cmn-tw-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "b6ad22ea11321d0f16913cef954fe89e399a31b5c73f97731cd971656194ab85"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "fi-fi-x-multi-r24",
+      "compressed_size": 5449873,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/fi-fi/fi-fi-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/fi-fi/fi-fi-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "9291e0a0cb8d50cce6a7b152b70d1858ed6a50c230866551f513a49ea3d86203"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "vi-vn-x-multi-r24",
+      "compressed_size": 4607933,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/vi-vn/vi-vn-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/vi-vn/vi-vn-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "a43dda2f4b4334d885aad52ae7026908a1b3ab5f42b6af65226912363d1adbcf"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "cmn-cn-x-multi-r24",
+      "compressed_size": 12151809,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/cmn-cn/cmn-cn-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/cmn-cn/cmn-cn-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "1cfcd3b89ae11a5eb201b777696684d49f52000565e4533dd84e180c300caa14"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-us-x-multi-wavernn-r33",
+      "compressed_size": 5239517,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-us/en-us-x-multi-wavernn-r33.zvoice",
+        "https://dl.google.com/android/tts/v26/en-us/en-us-x-multi-wavernn-r33.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "33",
+      "sha256_checksum": "cd438b560fda1a7c5ca356435d5ebe0055ec89d5a6a3d954ed87ecd31dc5d83d"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-au-x-multi-wavernn-r30",
+      "compressed_size": 4304769,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-au/en-au-x-multi-wavernn-r30.zvoice",
+        "https://dl.google.com/android/tts/v26/en-au/en-au-x-multi-wavernn-r30.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "30",
+      "sha256_checksum": "7efdfb8692e0c9da34610036cb3a45fcbec0a3c4339f3687be04746cc86799b7"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-gb-x-multi-wavernn-r32",
+      "compressed_size": 4142023,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-gb/en-gb-x-multi-wavernn-r32.zvoice",
+        "https://dl.google.com/android/tts/v26/en-gb/en-gb-x-multi-wavernn-r32.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "32",
+      "sha256_checksum": "dd34f14df7212d6ae1684211fb525aee8a2bf56f8af0bf4bc764b52138c8f350"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-in-x-multi-wavernn-r29",
+      "compressed_size": 9075387,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-in/en-in-x-multi-wavernn-r29.zvoice",
+        "https://dl.google.com/android/tts/v26/en-in/en-in-x-multi-wavernn-r29.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "29",
+      "sha256_checksum": "0eacc7e5c75f85847417f30617412d92c8e38cfb826f8f834f51220d3e29b6a3"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "bn-in-x-multi-r25",
+      "compressed_size": 3544994,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/bn-in/bn-in-x-multi-r25.zvoice",
+        "https://dl.google.com/android/tts/v26/bn-in/bn-in-x-multi-r25.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "25",
+      "sha256_checksum": "9aaf9b4b34b534c3278ce6df8846bb7319d2978dfdd910b5d7ac6137d53ea49f"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "pt-pt-x-multi-r22",
+      "compressed_size": 5319191,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/pt-pt/pt-pt-x-multi-r22.zvoice",
+        "https://dl.google.com/android/tts/v26/pt-pt/pt-pt-x-multi-r22.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "22",
+      "sha256_checksum": "4bcfb0cdef6115f9d88b76e5c7e5088745b7b16df6df70579f9b6ec5ce0b8f5d"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "it-it-x-multi-r24",
+      "compressed_size": 8366661,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/it-it/it-it-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/it-it/it-it-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "2db14bbb57fa6b12648209ae4af290e877400b60e3b036fbfdf22e79dbe34e04"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "th-th-x-multi-r24",
+      "compressed_size": 5153919,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/th-th/th-th-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/th-th/th-th-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "47bd509f1d107859734224f9925aaba16789436a8fe4ada76a6ed43899db31eb"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "da-dk-x-multi-r24",
+      "compressed_size": 5561212,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/da-dk/da-dk-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/da-dk/da-dk-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "95ec480d8eb43d19edab1b0194ed654ce7ff57e15357f89c1297563cf4719b01"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "hu-hu-x-multi-r24",
+      "compressed_size": 4126448,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/hu-hu/hu-hu-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/hu-hu/hu-hu-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "2f4ace193fb8d96cca8088ba0688bcc6ac6c9767ccd7efd3a4e4c31b30577cbb"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "bn-bd-x-multi-r24",
+      "compressed_size": 3619909,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/bn-bd/bn-bd-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/bn-bd/bn-bd-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "c6d0d3fbb33496b3ad9bb7d834fbb6a97442ce39ecdeccbfbf36ecd207b4eac7"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "sv-se-x-multi-r25",
+      "compressed_size": 4576427,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/sv-se/sv-se-x-multi-r25.zvoice",
+        "https://dl.google.com/android/tts/v26/sv-se/sv-se-x-multi-r25.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "25",
+      "sha256_checksum": "1a2211b549302f6d75a54c2c8c4445c7059bc366fa5de4a96937b67d1ad11cc1"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "cs-cz-x-multi-r24",
+      "compressed_size": 6863356,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/cs-cz/cs-cz-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/cs-cz/cs-cz-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "2b6e28cabbd2a8a31792d1b89ef3b7fc6efbd246ea99012162e4d28e41e9bc2b"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "km-kh-x-multi-r24",
+      "compressed_size": 3578797,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/km-kh/km-kh-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/km-kh/km-kh-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "5f4f697dac5c7f6c3bdaca219c54daddf3a723bb63a730c65f89b2b8579ab013"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "si-lk-x-multi-r24",
+      "compressed_size": 2422560,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/si-lk/si-lk-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/si-lk/si-lk-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "65a5d1c1e9530128d8c2b425b1d2e0e359fd5687940722168d10c0f7d8569999"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "uk-ua-x-multi-r24",
+      "compressed_size": 8215761,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/uk-ua/uk-ua-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/uk-ua/uk-ua-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "b66e1d961be162c39e624356cecd88d0518a012b0f400318f70d7416e164637e"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ne-np-x-multi-r24",
+      "compressed_size": 3754585,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ne-np/ne-np-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/ne-np/ne-np-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "5b5c5d388f8fabd68dd2aa5b72d4383d6078f5708ffce93215043c29429e6445"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "el-gr-x-multi-r24",
+      "compressed_size": 3569462,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/el-gr/el-gr-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/el-gr/el-gr-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "c7c5d18c0a982f2281e203475b678022c15d6c274c8990a1b2a53408848f6eb2"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "fil-ph-x-multi-r24",
+      "compressed_size": 6237028,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/fil-ph/fil-ph-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/fil-ph/fil-ph-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "68c5bc9cdb55f711323fd9d1af61cb3dadfa6a23cbe121000fb5e7f6d12b627c"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "sk-sk-x-multi-r24",
+      "compressed_size": 5032262,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/sk-sk/sk-sk-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/sk-sk/sk-sk-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "0c72d20c79b97a08f97b3e4f939d20b3522aaa2e23c86358cd9de0346ff89597"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ro-ro-x-multi-r24",
+      "compressed_size": 1869627,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ro-ro/ro-ro-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/ro-ro/ro-ro-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "9e64606ddd881c3d6f1850164d13ab660373f0c6beac1e4bba994bbe1dda56f1"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "su-id-x-multi-r24",
+      "compressed_size": 2135787,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/su-id/su-id-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/su-id/su-id-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "4697f51402bb01075dd4f7fa3fa2dce6ef60c8ae8828b778fd6626887d380aa6"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "jv-id-x-multi-r24",
+      "compressed_size": 2354069,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/jv-id/jv-id-x-multi-r24.zvoice",
+        "https://dl.google.com/android/tts/v26/jv-id/jv-id-x-multi-r24.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "24",
+      "sha256_checksum": "e4139b93a72c58cceea1970d46e0e6a174edae66226b4a85aec364d300d391e9"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "mr-in-x-multi-r22",
+      "compressed_size": 6362498,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/mr-in/mr-in-x-multi-r22.zvoice",
+        "https://dl.google.com/android/tts/v26/mr-in/mr-in-x-multi-r22.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "22",
+      "sha256_checksum": "4d2b653cf461316a61e3a6f8bc611b457a767e5e837d522f69c45f4e80932006"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ur-pk-x-multi-r21",
+      "compressed_size": 21944269,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ur-pk/ur-pk-x-multi-r21.zvoice",
+        "https://dl.google.com/android/tts/v26/ur-pk/ur-pk-x-multi-r21.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "21",
+      "sha256_checksum": "2fc2030d1a1a88240eef503d575195128c927728f6cb802bac37a57aa4814878"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-ng-x-multi-r18",
+      "compressed_size": 6706377,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-ng/en-ng-x-multi-r18.zvoice",
+        "https://dl.google.com/android/tts/v26/en-ng/en-ng-x-multi-r18.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "18",
+      "sha256_checksum": "677c47396c9bd6cf77179bc040dc9eb715b1d95aab330988923f9100b92e6762"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ar-xa-x-multi-r14",
+      "compressed_size": 9899186,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ar-xa/ar-xa-x-multi-r14.zvoice",
+        "https://dl.google.com/android/tts/v26/ar-xa/ar-xa-x-multi-r14.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "14",
+      "sha256_checksum": "12314606a7f94d1ac851418869377b7f760d79c4434e8252f507b7d838492bf0"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-us-x-multi-darwinn-wavernn-r33",
+      "compressed_size": 4249563,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-us/en-us-x-multi-darwinn-wavernn-r33.zvoice",
+        "https://dl.google.com/android/tts/v26/en-us/en-us-x-multi-darwinn-wavernn-r33.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "33",
+      "sha256_checksum": "2146bf73606b4b625443ad89a3ac2ee2629c548bcd30e1322a29ffd144677351"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-gb-x-multi-darwinn-wavernn-r32",
+      "compressed_size": 3151562,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-gb/en-gb-x-multi-darwinn-wavernn-r32.zvoice",
+        "https://dl.google.com/android/tts/v26/en-gb/en-gb-x-multi-darwinn-wavernn-r32.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "32",
+      "sha256_checksum": "2a79c789fecb44cf95a8dfd4ae21b487146472ca02ffbd5742b9806cd99bcdbb"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "de-de-x-multi-wavernn-r27",
+      "compressed_size": 9686375,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/de-de/de-de-x-multi-wavernn-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/de-de/de-de-x-multi-wavernn-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "6a3da1a6fb1ce05f693e3d9c6f315fa3cbd8c01ef02edbc4ba41d01fc93a2877"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "de-de-x-multi-darwinn-wavernn-r27",
+      "compressed_size": 2909215,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/de-de/de-de-x-multi-darwinn-wavernn-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/de-de/de-de-x-multi-darwinn-wavernn-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "4d1af05b2c31a481a7c4dacee8f9ef69cb0f7510d7fae5221920274160d45393"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "pt-br-x-multi-wavernn-r28",
+      "compressed_size": 3755770,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/pt-br/pt-br-x-multi-wavernn-r28.zvoice",
+        "https://dl.google.com/android/tts/v26/pt-br/pt-br-x-multi-wavernn-r28.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "28",
+      "sha256_checksum": "508a52ee14ea25045fe7199aef4adaf1173bac7c8b7021372a4587bf077b64dc"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "pt-br-x-multi-darwinn-wavernn-r28",
+      "compressed_size": 2765470,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/pt-br/pt-br-x-multi-darwinn-wavernn-r28.zvoice",
+        "https://dl.google.com/android/tts/v26/pt-br/pt-br-x-multi-darwinn-wavernn-r28.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "28",
+      "sha256_checksum": "6fb81c95e1aac3e28ade341f14d8cfad5a0e9758c5f268ef1b85829b8256e8c6"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "es-es-x-multi-wavernn-r27",
+      "compressed_size": 3916256,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/es-es/es-es-x-multi-wavernn-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/es-es/es-es-x-multi-wavernn-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "3b3619f76151ef16585a6855e6db6b78a53106a89051d14277efeb4272ce35fd"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "es-es-x-multi-darwinn-wavernn-r27",
+      "compressed_size": 2925292,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/es-es/es-es-x-multi-darwinn-wavernn-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/es-es/es-es-x-multi-darwinn-wavernn-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "7e5bd0e1555676b086779c568c8a24c85ae81af912aeb1094b42ee632b8e1825"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "es-us-x-multi-wavernn-r28",
+      "compressed_size": 7084420,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/es-us/es-us-x-multi-wavernn-r28.zvoice",
+        "https://dl.google.com/android/tts/v26/es-us/es-us-x-multi-wavernn-r28.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "28",
+      "sha256_checksum": "53b16ccb929e349dac46a7af3d0a196099cde6e759c3f618b4453c5dd018f159"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "es-us-x-multi-darwinn-wavernn-r28",
+      "compressed_size": 6094150,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/es-us/es-us-x-multi-darwinn-wavernn-r28.zvoice",
+        "https://dl.google.com/android/tts/v26/es-us/es-us-x-multi-darwinn-wavernn-r28.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "28",
+      "sha256_checksum": "44988d222a3a8be370f5126cbafe9b2d454b61940cc09ed703a55fcb2831ff51"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "fr-fr-x-multi-wavernn-r27",
+      "compressed_size": 4742311,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/fr-fr/fr-fr-x-multi-wavernn-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/fr-fr/fr-fr-x-multi-wavernn-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "95b3601c1479d9f9453bf131ada6837fef12664b0b4bf318c83f3bc51bcf84de"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "fr-fr-x-multi-darwinn-wavernn-r27",
+      "compressed_size": 3751925,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/fr-fr/fr-fr-x-multi-darwinn-wavernn-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/fr-fr/fr-fr-x-multi-darwinn-wavernn-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "064ad57d3dd20e7dca06302e107a1896c8845de610e56111356c9e3f1eeea37b"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-in-x-multi-darwinn-wavernn-r29",
+      "compressed_size": 8084295,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-in/en-in-x-multi-darwinn-wavernn-r29.zvoice",
+        "https://dl.google.com/android/tts/v26/en-in/en-in-x-multi-darwinn-wavernn-r29.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "29",
+      "sha256_checksum": "2ce18ee840dcdaa905d00b8bb8f7758bc850c0e9efd71b30646ea560a613d17e"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ja-jp-x-multi-r27",
+      "compressed_size": 25731669,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ja-jp/ja-jp-x-multi-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/ja-jp/ja-jp-x-multi-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "c4fd92b226fd883b5ba3185402c5a9a11ed8f221874ddefe9ecc27ca13dfde26"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ja-jp-x-multi-wavernn-r27",
+      "compressed_size": 27040842,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ja-jp/ja-jp-x-multi-wavernn-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/ja-jp/ja-jp-x-multi-wavernn-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "ce3bff9802f43dd78360a2cc944cb7d815d966fdc9f165e94ab425c884a04791"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ja-jp-x-multi-darwinn-wavernn-r27",
+      "compressed_size": 26050304,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ja-jp/ja-jp-x-multi-darwinn-wavernn-r27.zvoice",
+        "https://dl.google.com/android/tts/v26/ja-jp/ja-jp-x-multi-darwinn-wavernn-r27.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "27",
+      "sha256_checksum": "8a735a8dfdba9f021f658e22bc4c55af9e9ea5c52a7f3d49493490ba3ae94c14"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "id-id-x-multi-wavernn-r26",
+      "compressed_size": 6050349,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/id-id/id-id-x-multi-wavernn-r26.zvoice",
+        "https://dl.google.com/android/tts/v26/id-id/id-id-x-multi-wavernn-r26.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "26",
+      "sha256_checksum": "ce839a25e45890a7eed62a03990a36458c5a929b8434b173447032e1c6c24b5b"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "id-id-x-multi-darwinn-wavernn-r26",
+      "compressed_size": 5059987,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/id-id/id-id-x-multi-darwinn-wavernn-r26.zvoice",
+        "https://dl.google.com/android/tts/v26/id-id/id-id-x-multi-darwinn-wavernn-r26.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "26",
+      "sha256_checksum": "797e692e1a1d55296ad223723a42c23c33ed42b9a8418fcf24ce28bf6deef1e0"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "en-au-x-multi-darwinn-wavernn-r30",
+      "compressed_size": 3170886,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/en-au/en-au-x-multi-darwinn-wavernn-r30.zvoice",
+        "https://dl.google.com/android/tts/v26/en-au/en-au-x-multi-darwinn-wavernn-r30.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "30",
+      "sha256_checksum": "fc3c3b71903810261990c099d79c14b160245088004ad38018ab42b2d75e8809"
+    },
+    {
+      "namespace": "ttsvoices",
+      "name": "ms-my-x-multi-r1",
+      "compressed_size": 2894648,
+      "size": 0,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://redirector.gvt1.com/edgedl/android/tts/v26/ms-my/ms-my-x-multi-r1.zvoice",
+        "https://dl.google.com/android/tts/v26/ms-my/ms-my-x-multi-r1.zvoice"
+      ],
+      "download_packing_scheme": "zvoice",
+      "validation_schemes": [
+        "sha256"
+      ],
+      "revision": "1",
+      "sha256_checksum": "8f2fbc899f6b82f2630188b810a761e9938b0e12d9e05c62b5f9539658d25524"
+    }
+  ]
+}

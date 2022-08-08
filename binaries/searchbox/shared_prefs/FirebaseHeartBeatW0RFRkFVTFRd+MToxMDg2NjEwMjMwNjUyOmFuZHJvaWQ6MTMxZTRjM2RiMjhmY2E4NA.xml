@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="android-target-sdk/31 device-name/tulip_chiphd android-min-sdk/ fire-analytics/21.0.1 fire-android/23 fire-iid/21.1.1 android-installer/com.android.vending fire-core/20.0.1_1p fire-installations/17.0.2_1p device-brand/Allwinner android-platform/ device-model/tulip-chiphd">
+        <string>2022-07-21</string>
+    </set>
+    <long name="fire-global" value="1658310919731" />
+    <string name="last-used-date">2022-07-21</string>
+    <long name="fire-count" value="1" />
+</map>
