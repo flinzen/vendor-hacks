@@ -6,5 +6,5 @@ if test -f /data/preset/install -a -d /data/data/eu.chainfire.supersu -a -d /dat
 	chown -R $(echo $SUPERSU_CHOWN) /data/data/eu.chainfire.supersu
 	chown -R $(echo $GOOGLE_TTS_CHOWN) /data/data/com.google.android.tts
 	chown -R $(echo $GOOGLE_CHOWN) /data/data/com.google.android.googlequicksearchbox
-	rm install
+	rm /data/preset/install
 fi
